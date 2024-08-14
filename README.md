@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there I'm Vitor Zambonini 👋
+
+Atualmente atuo na área Química como Técnico em Química, entretanto estou no início de minha jornada na área de Análise e Desenvolvimento de Sistemas, no qual busco graduação e permanência na área como um novo plano de carreira.
 
 <!--
 **Vitor-Zamba/Vitor-Zamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
